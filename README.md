@@ -1,10 +1,5 @@
 # TOSRoberta: Terms of Service Analyzer 📜🤖
 
-[![GitHub license](https://img.shields.io/github/license/HimanshuMohanty-Git24/TOSRoberta.svg)](https://github.com/HimanshuMohanty-Git24/TOSRoberta/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/HimanshuMohanty-Git24/TOSRoberta.svg)](https://github.com/HimanshuMohanty-Git24/TOSRoberta/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HimanshuMohanty-Git24/TOSRoberta.svg)](https://github.com/HimanshuMohanty-Git24/TOSRoberta/network)
-[![GitHub issues](https://img.shields.io/github/issues/HimanshuMohanty-Git24/TOSRoberta.svg)](https://github.com/HimanshuMohanty-Git24/TOSRoberta/issues)
-
 TOSRoberta is an advanced Terms of Service (ToS) analyzer powered by a fine-tuned RoBERTa-large model. It classifies clauses in ToS documents based on their fairness level, helping users quickly identify potentially unfair terms.
 
 ![image](https://github.com/HimanshuMohanty-Git24/TOSRoberta/assets/94133298/c4f6a293-9109-4e63-86e6-766dc16ad589)
