@@ -1,6 +1,6 @@
 # TOSRoberta: Terms of Service Analyzer 📜🤖
 
-[![GitHub license](https://img.shields.io/github/license/HimanshuMohanty-Git24/TOSRoberta.svg)](https://github.com/HimanshuMohanty-Git24/TOSRoberta/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/HimanshuMohanty-Git24/TOSRoberta.svg)](https://github.com/HimanshuMohanty-Git24/TOSRoberta/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/HimanshuMohanty-Git24/TOSRoberta.svg)](https://github.com/HimanshuMohanty-Git24/TOSRoberta/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HimanshuMohanty-Git24/TOSRoberta.svg)](https://github.com/HimanshuMohanty-Git24/TOSRoberta/network)
 [![GitHub issues](https://img.shields.io/github/issues/HimanshuMohanty-Git24/TOSRoberta.svg)](https://github.com/HimanshuMohanty-Git24/TOSRoberta/issues)
