@@ -1,0 +1,6 @@
+streamlit
+pandas
+torch
+transformers
+PyPDF2
+spacy
